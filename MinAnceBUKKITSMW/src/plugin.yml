@@ -1,0 +1,15 @@
+author: th0m4s
+name: MinAnceSMW
+version: 0.0.1
+main: dev.th0m4s.bukkit.minance.games.smw.MinAnceBUKKITSMW
+
+commands:
+  startgame:
+    usage: /startgame
+    description: Start the game DEBUG
+  endgame:
+    usage: /endgame
+    description: End the game DEBUG
+  gamerules:
+    usage: /gamerules
+    description: Show game rules

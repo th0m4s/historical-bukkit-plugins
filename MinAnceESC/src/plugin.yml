@@ -1,0 +1,15 @@
+author: th0m4s
+name: MinAnceESC
+version: 0.0.1
+main: dev.th0m4s.bukkit.minance.games.esc.MinAnceESC
+
+commands:
+  gamerules:
+    usage: /gamerules
+    description: Show game rules
+  add:
+    usage: /add <params>
+    description: DEBUG Add map
+  startgame:
+    usage: /startgame
+    description: DEBUG starts the game

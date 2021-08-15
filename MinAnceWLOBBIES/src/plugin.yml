@@ -1,0 +1,10 @@
+author: th0m4s
+name: MinAnceWL
+version: 0.0.1
+main: dev.th0m4s.bukkit.minance.wl.MainClass
+
+commands:
+  warplobbies:
+    aliases: wl
+    description: Create games, for Admins
+    usage: /wl <add/delete/edit> <name>

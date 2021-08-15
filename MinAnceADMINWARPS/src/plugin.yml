@@ -1,0 +1,12 @@
+version: 1.1
+author: th0m4s
+name: MinAnceADMINWARPS
+main: dev.th0m4s.bukkit.minance.adminwarps.MainClass
+commands:
+  minanceadminwarps:
+    usage: /minanceadminwarps
+    aliases:
+    - aw
+    - minanceawarps
+    - maw
+    description: MinAnceADMINWARPS

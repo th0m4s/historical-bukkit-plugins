@@ -1,0 +1,9 @@
+author: th0m4s
+name: MinAnceRUNSRVs
+version: 0.0.1
+main: dev.th0m4s.bukkit.minance.runsrvs.MainClass
+
+commands:
+  srvmanager:
+    usage: /srvmanager [command]
+    description: Manager servers
